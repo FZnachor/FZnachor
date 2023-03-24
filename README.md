@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Filip
 
-- 😅 20 y.o. student
-- 🎉 Mainly programming in **Typescript**, **Python**, PHP and Java
+- 😅 21 y.o. student
+- 🎉 Mainly programming in **Typescript**, **Python**, **PHP** and Java
 - 🪐 Fullstack **website developer** and designer
 - 🌱 Coming up with more projects than I can create
 

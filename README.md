@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Filip
 
-- 😅 ~ 21 y.o. student @ [FAV ZČU](https://fav.zcu.cz)
+- 😅 ~ 22 y.o. student @ [FAV ZČU](https://fav.zcu.cz)
 - 🇨🇿 ~ České Budějovice / Plzeň
 - 🔥 ~ Fullstack **website developer** and designer
 - 🪐 ~ Writing code in **TypeScript**, **PHP**, **Rust**, **Java** and **Python**

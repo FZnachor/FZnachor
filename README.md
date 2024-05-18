@@ -2,10 +2,12 @@
 
 - 😅 ~ 22 y.o. student @ [FAV ZČU](https://fav.zcu.cz)
 - 🇨🇿 ~ České Budějovice / Plzeň
-- 🔥 ~ Fullstack **website developer** and designer
+- 🔥 ~ **Free & open-source software** maintainer and contributor
 - 🪐 ~ Writing code in **TypeScript**, **PHP**, **Rust**, **Java**, **C** and **Python**
-- 💻 ~ Server & network administrator
 - 🌱 ~ Coming up with more project ideas than I can create
++ 📜 ~ Founding member of [**CodeSpace**](https://codespace.cz)
++ 🌐 ~ Fullstack website developer and designer
++ 💻 ~ Server and network administrator
 
 ### 💬 Get in touch
 
